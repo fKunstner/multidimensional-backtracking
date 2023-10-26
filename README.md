@@ -8,10 +8,11 @@ arXiv: https://arxiv.org/abs/2306.02527
 
 **Citation**
 ```
-@misc{KunstnerPSH23multidimensionalbacktracking,
-    title = {Searching for Optimal Per-Coordinate Step-sizes with Multidimensional Backtracking},
+@inproceedings{KunstnerPSH23multidimensionalbacktracking,
+    title={Searching for Optimal Per-Coordinate Step-sizes with Multidimensional Backtracking},
     author = {Frederik Kunstner and Victor S. Portella and Mark Schmidt and Nick Harvey},
-    year = {2023},
-    note = {arXiv/2306.02527}
+    booktitle={Thirty-seventh Conference on Neural Information Processing Systems},
+    year={2023},
+    url={https://openreview.net/forum?id=wzPcffMZ3b}
 }
 ```
